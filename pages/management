@@ -19,15 +19,14 @@
                 <span class="logo-text">Helman</span>
             </div>
             <div class="nav-menu">
-                <a href="./index.html" class="nav-link active">Home</a> <!--Statistics-->
-                <a href="./tools.html" class="nav-link">Tools</a> <!--API Stuff-->
-                <a href="./management.html" class="nav-link">Management</a> <!--Data Management-->
-                <a href="./settings.html" class="nav-link">Settings</a> <!--Settings and Authorisation-->
+                <a href="./home" class="nav-link">Home</a> <!--Statistics-->
+                <a href="./tools" class="nav-link">Tools</a> <!--API Stuff-->
+                <a class="nav-link active">Management</a> <!--Data Management-->
+                <a href="./settings" class="nav-link">Settings</a> <!--Settings and Authorisation-->
             </div>
         </div>
         <div class="content">
-            <span class="stat-span"><h1>Indexed Items: </h1><h1 id="indexed-items">XXXX</h1></span><br>
-            <span class="stat-span"><h3>Total Series: </h3><h3 id="indexed-series">XX</h3></span>
+            
         </div>
         <script src="" async defer></script>
     </body>
